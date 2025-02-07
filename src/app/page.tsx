@@ -27,6 +27,12 @@ export default function Home() {
             sequi nostrum tempora voluptatem?
           </p>
           <h1>Hello</h1>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos alias,
+            reiciendis dolorem delectus eaque amet nesciunt voluptate hic enim
+            atque magnam sit nostrum, veniam distinctio quae tenetur maxime
+            assumenda praesentium?
+          </p>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
