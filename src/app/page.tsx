@@ -33,6 +33,10 @@ export default function Home() {
             atque magnam sit nostrum, veniam distinctio quae tenetur maxime
             assumenda praesentium?
           </p>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia
+            aspernatur saepe nobis!
+          </p>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
