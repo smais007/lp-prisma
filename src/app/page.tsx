@@ -21,6 +21,12 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Accusantium inventore assumenda distinctio. Dolores suscipit a quas
+            sequi nostrum tempora voluptatem?
+          </p>
+          <h1>Hello</h1>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
